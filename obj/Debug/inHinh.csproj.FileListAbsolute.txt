@@ -1,0 +1,7 @@
+D:\visual studio\Csharp\inHinh\bin\Debug\inHinh.exe.config
+D:\visual studio\Csharp\inHinh\bin\Debug\inHinh.exe
+D:\visual studio\Csharp\inHinh\bin\Debug\inHinh.pdb
+D:\visual studio\Csharp\inHinh\obj\Debug\inHinh.csproj.AssemblyReference.cache
+D:\visual studio\Csharp\inHinh\obj\Debug\inHinh.csproj.CoreCompileInputs.cache
+D:\visual studio\Csharp\inHinh\obj\Debug\inHinh.exe
+D:\visual studio\Csharp\inHinh\obj\Debug\inHinh.pdb
